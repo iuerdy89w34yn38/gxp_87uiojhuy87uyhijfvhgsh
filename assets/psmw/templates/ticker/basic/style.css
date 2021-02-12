@@ -1,0 +1,35 @@
+.smw-ticker.smw-basic {
+  font-size: 1rem;
+  padding: 0.5rem 0; }
+  .smw-ticker.smw-basic .smw-ticker-single-container {
+    margin-right: 1rem; }
+  .smw-ticker.smw-basic .smw-field-virtual-symbol {
+    font-weight: bold; }
+  .smw-ticker.smw-basic.smw-ct-red {
+    color: #DB2828; }
+  .smw-ticker.smw-basic.smw-ct-orange {
+    color: #F2711C; }
+  .smw-ticker.smw-basic.smw-ct-yellow {
+    color: #FBBD08; }
+  .smw-ticker.smw-basic.smw-ct-olive {
+    color: #B5CC18; }
+  .smw-ticker.smw-basic.smw-ct-green {
+    color: #21BA45; }
+  .smw-ticker.smw-basic.smw-ct-teal {
+    color: #00B5AD; }
+  .smw-ticker.smw-basic.smw-ct-blue {
+    color: #2185D0; }
+  .smw-ticker.smw-basic.smw-ct-purple {
+    color: #A333C8; }
+  .smw-ticker.smw-basic.smw-ct-violet {
+    color: #6435C9; }
+  .smw-ticker.smw-basic.smw-ct-pink {
+    color: #E03997; }
+  .smw-ticker.smw-basic.smw-ct-brown {
+    color: #A5673F; }
+  .smw-ticker.smw-basic.smw-ct-grey {
+    color: #767676; }
+  .smw-ticker.smw-basic.smw-ct-black {
+    color: #000; }
+  .smw-ticker.smw-basic.smw-ct-white {
+    color: #fff; }

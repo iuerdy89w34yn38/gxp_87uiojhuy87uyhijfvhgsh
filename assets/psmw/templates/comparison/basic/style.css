@@ -1,0 +1,401 @@
+.smw-comparison.smw-basic {
+  /*COLOR THEMES*/ }
+  .smw-comparison.smw-basic table {
+    width: 100%;
+    box-shadow: none;
+    border: none;
+    border-spacing: 0px; }
+    .smw-comparison.smw-basic table thead tr th {
+      white-space: normal;
+      text-align: center;
+      vertical-align: middle;
+      font-weight: normal;
+      text-transform: none;
+      white-space: nowrap;
+      border: none; }
+    .smw-comparison.smw-basic table thead tr.smw-table-header-1st th {
+      padding: 0.5rem;
+      font-size: 1.6rem;
+      line-height: 1.6rem; }
+    .smw-comparison.smw-basic table thead tr.smw-table-header-2nd th {
+      padding: 1rem 0.6rem; }
+      .smw-comparison.smw-basic table thead tr.smw-table-header-2nd th .smw-field-quote-currency {
+        font-size: 1rem;
+        line-height: 1rem; }
+      .smw-comparison.smw-basic table thead tr.smw-table-header-2nd th .smw-field-quote-regularMarketPrice {
+        font-size: 2.8rem;
+        line-height: 2.8rem; }
+    .smw-comparison.smw-basic table tbody tr td {
+      color: rgba(0, 0, 0, 0.9);
+      font-size: 1rem;
+      padding: 0.7em;
+      text-align: center;
+      vertical-align: middle;
+      border: none;
+      border-bottom: 1px solid grey; }
+      .smw-comparison.smw-basic table tbody tr td.smw-cell-with-indicator {
+        white-space: nowrap; }
+  .smw-comparison.smw-basic.smw-ct-red table thead tr th {
+    color: #711313; }
+  .smw-comparison.smw-basic.smw-ct-red table thead tr.smw-table-header-1st th {
+    border-top: 1px solid #e25454;
+    border-bottom: 1px solid #9c1a1a;
+    background-color: #DB2828 !important;
+    background-image: linear-gradient(top, #DB2828, #b21e1e) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    background: -ms-linear-gradient(top, #DB2828, #b21e1e) !important;
+    background: -moz-linear-gradient(top, #DB2828, #b21e1e) !important;
+    background: -o-linear-gradient(top, #DB2828, #b21e1e) !important;
+    background: -webkit-linear-gradient(top, #DB2828, #b21e1e) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #DB2828), color-stop(1, #b21e1e)) !important; }
+  .smw-comparison.smw-basic.smw-ct-red table thead tr.smw-table-header-2nd th {
+    border-top: 1px solid #e25454;
+    border-bottom: 1px solid #9c1a1a;
+    background-color: #DB2828 !important;
+    background-image: linear-gradient(top, #DB2828, #9c1a1a) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    background: -ms-linear-gradient(top, #DB2828, #9c1a1a) !important;
+    background: -moz-linear-gradient(top, #DB2828, #9c1a1a) !important;
+    background: -o-linear-gradient(top, #DB2828, #9c1a1a) !important;
+    background: -webkit-linear-gradient(top, #DB2828, #9c1a1a) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #DB2828), color-stop(1, #9c1a1a)) !important; }
+  .smw-comparison.smw-basic.smw-ct-orange table thead tr th {
+    color: #873a08; }
+  .smw-comparison.smw-basic.smw-ct-orange table thead tr.smw-table-header-1st th {
+    border-top: 1px solid #f58f4c;
+    border-bottom: 1px solid #b74f0a;
+    background-color: #F2711C !important;
+    background-image: linear-gradient(top, #F2711C, #cf590c) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    background: -ms-linear-gradient(top, #F2711C, #cf590c) !important;
+    background: -moz-linear-gradient(top, #F2711C, #cf590c) !important;
+    background: -o-linear-gradient(top, #F2711C, #cf590c) !important;
+    background: -webkit-linear-gradient(top, #F2711C, #cf590c) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #F2711C), color-stop(1, #cf590c)) !important; }
+  .smw-comparison.smw-basic.smw-ct-orange table thead tr.smw-table-header-2nd th {
+    border-top: 1px solid #f58f4c;
+    border-bottom: 1px solid #b74f0a;
+    background-color: #F2711C !important;
+    background-image: linear-gradient(top, #F2711C, #b74f0a) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    background: -ms-linear-gradient(top, #F2711C, #b74f0a) !important;
+    background: -moz-linear-gradient(top, #F2711C, #b74f0a) !important;
+    background: -o-linear-gradient(top, #F2711C, #b74f0a) !important;
+    background: -webkit-linear-gradient(top, #F2711C, #b74f0a) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #F2711C), color-stop(1, #b74f0a)) !important; }
+  .smw-comparison.smw-basic.smw-ct-yellow table thead tr th {
+    color: #816102; }
+  .smw-comparison.smw-basic.smw-ct-yellow table thead tr.smw-table-header-1st th {
+    border-top: 1px solid #fcca3a;
+    border-bottom: 1px solid #b48703;
+    background-color: #FBBD08 !important;
+    background-image: linear-gradient(top, #FBBD08, #cd9903) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    background: -ms-linear-gradient(top, #FBBD08, #cd9903) !important;
+    background: -moz-linear-gradient(top, #FBBD08, #cd9903) !important;
+    background: -o-linear-gradient(top, #FBBD08, #cd9903) !important;
+    background: -webkit-linear-gradient(top, #FBBD08, #cd9903) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FBBD08), color-stop(1, #cd9903)) !important; }
+  .smw-comparison.smw-basic.smw-ct-yellow table thead tr.smw-table-header-2nd th {
+    border-top: 1px solid #fcca3a;
+    border-bottom: 1px solid #b48703;
+    background-color: #FBBD08 !important;
+    background-image: linear-gradient(top, #FBBD08, #b48703) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    background: -ms-linear-gradient(top, #FBBD08, #b48703) !important;
+    background: -moz-linear-gradient(top, #FBBD08, #b48703) !important;
+    background: -o-linear-gradient(top, #FBBD08, #b48703) !important;
+    background: -webkit-linear-gradient(top, #FBBD08, #b48703) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FBBD08), color-stop(1, #b48703)) !important; }
+  .smw-comparison.smw-basic.smw-ct-olive table thead tr th {
+    color: #505a0b; }
+  .smw-comparison.smw-basic.smw-ct-olive table thead tr.smw-table-header-1st th {
+    border-top: 1px solid #cfe730;
+    border-bottom: 1px solid #788810;
+    background-color: #B5CC18 !important;
+    background-image: linear-gradient(top, #B5CC18, #8d9e13) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    background: -ms-linear-gradient(top, #B5CC18, #8d9e13) !important;
+    background: -moz-linear-gradient(top, #B5CC18, #8d9e13) !important;
+    background: -o-linear-gradient(top, #B5CC18, #8d9e13) !important;
+    background: -webkit-linear-gradient(top, #B5CC18, #8d9e13) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #B5CC18), color-stop(1, #8d9e13)) !important; }
+  .smw-comparison.smw-basic.smw-ct-olive table thead tr.smw-table-header-2nd th {
+    border-top: 1px solid #cfe730;
+    border-bottom: 1px solid #788810;
+    background-color: #B5CC18 !important;
+    background-image: linear-gradient(top, #B5CC18, #788810) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    background: -ms-linear-gradient(top, #B5CC18, #788810) !important;
+    background: -moz-linear-gradient(top, #B5CC18, #788810) !important;
+    background: -o-linear-gradient(top, #B5CC18, #788810) !important;
+    background: -webkit-linear-gradient(top, #B5CC18, #788810) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #B5CC18), color-stop(1, #788810)) !important; }
+  .smw-comparison.smw-basic.smw-ct-green table thead tr th {
+    color: #0e4e1d; }
+  .smw-comparison.smw-basic.smw-ct-green table thead tr.smw-table-header-1st th {
+    border-top: 1px solid #33db5b;
+    border-bottom: 1px solid #15792d;
+    background-color: #21BA45 !important;
+    background-image: linear-gradient(top, #21BA45, #198f35) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    background: -ms-linear-gradient(top, #21BA45, #198f35) !important;
+    background: -moz-linear-gradient(top, #21BA45, #198f35) !important;
+    background: -o-linear-gradient(top, #21BA45, #198f35) !important;
+    background: -webkit-linear-gradient(top, #21BA45, #198f35) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #21BA45), color-stop(1, #198f35)) !important; }
+  .smw-comparison.smw-basic.smw-ct-green table thead tr.smw-table-header-2nd th {
+    border-top: 1px solid #33db5b;
+    border-bottom: 1px solid #15792d;
+    background-color: #21BA45 !important;
+    background-image: linear-gradient(top, #21BA45, #15792d) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    background: -ms-linear-gradient(top, #21BA45, #15792d) !important;
+    background: -moz-linear-gradient(top, #21BA45, #15792d) !important;
+    background: -o-linear-gradient(top, #21BA45, #15792d) !important;
+    background: -webkit-linear-gradient(top, #21BA45, #15792d) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #21BA45), color-stop(1, #15792d)) !important; }
+  .smw-comparison.smw-basic.smw-ct-teal table thead tr th {
+    color: #003633; }
+  .smw-comparison.smw-basic.smw-ct-teal table thead tr.smw-table-header-1st th {
+    border-top: 1px solid #00e8de;
+    border-bottom: 1px solid #006964;
+    background-color: #00B5AD !important;
+    background-image: linear-gradient(top, #00B5AD, #00827c) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    background: -ms-linear-gradient(top, #00B5AD, #00827c) !important;
+    background: -moz-linear-gradient(top, #00B5AD, #00827c) !important;
+    background: -o-linear-gradient(top, #00B5AD, #00827c) !important;
+    background: -webkit-linear-gradient(top, #00B5AD, #00827c) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #00B5AD), color-stop(1, #00827c)) !important; }
+  .smw-comparison.smw-basic.smw-ct-teal table thead tr.smw-table-header-2nd th {
+    border-top: 1px solid #00e8de;
+    border-bottom: 1px solid #006964;
+    background-color: #00B5AD !important;
+    background-image: linear-gradient(top, #00B5AD, #006964) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    background: -ms-linear-gradient(top, #00B5AD, #006964) !important;
+    background: -moz-linear-gradient(top, #00B5AD, #006964) !important;
+    background: -o-linear-gradient(top, #00B5AD, #006964) !important;
+    background: -webkit-linear-gradient(top, #00B5AD, #006964) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #00B5AD), color-stop(1, #006964)) !important; }
+  .smw-comparison.smw-basic.smw-ct-blue table thead tr th {
+    color: #103f62; }
+  .smw-comparison.smw-basic.smw-ct-blue table thead tr.smw-table-header-1st th {
+    border-top: 1px solid #439de1;
+    border-bottom: 1px solid #175b8e;
+    background-color: #2185D0 !important;
+    background-image: linear-gradient(top, #2185D0, #1a69a4) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    background: -ms-linear-gradient(top, #2185D0, #1a69a4) !important;
+    background: -moz-linear-gradient(top, #2185D0, #1a69a4) !important;
+    background: -o-linear-gradient(top, #2185D0, #1a69a4) !important;
+    background: -webkit-linear-gradient(top, #2185D0, #1a69a4) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #2185D0), color-stop(1, #1a69a4)) !important; }
+  .smw-comparison.smw-basic.smw-ct-blue table thead tr.smw-table-header-2nd th {
+    border-top: 1px solid #439de1;
+    border-bottom: 1px solid #175b8e;
+    background-color: #2185D0 !important;
+    background-image: linear-gradient(top, #2185D0, #175b8e) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    background: -ms-linear-gradient(top, #2185D0, #175b8e) !important;
+    background: -moz-linear-gradient(top, #2185D0, #175b8e) !important;
+    background: -o-linear-gradient(top, #2185D0, #175b8e) !important;
+    background: -webkit-linear-gradient(top, #2185D0, #175b8e) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #2185D0), color-stop(1, #175b8e)) !important; }
+  .smw-comparison.smw-basic.smw-ct-purple table thead tr th {
+    color: #501962; }
+  .smw-comparison.smw-basic.smw-ct-purple table thead tr.smw-table-header-1st th {
+    border-top: 1px solid #b659d5;
+    border-bottom: 1px solid #71238b;
+    background-color: #A333C8 !important;
+    background-image: linear-gradient(top, #A333C8, #82299f) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    background: -ms-linear-gradient(top, #A333C8, #82299f) !important;
+    background: -moz-linear-gradient(top, #A333C8, #82299f) !important;
+    background: -o-linear-gradient(top, #A333C8, #82299f) !important;
+    background: -webkit-linear-gradient(top, #A333C8, #82299f) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #A333C8), color-stop(1, #82299f)) !important; }
+  .smw-comparison.smw-basic.smw-ct-purple table thead tr.smw-table-header-2nd th {
+    border-top: 1px solid #b659d5;
+    border-bottom: 1px solid #71238b;
+    background-color: #A333C8 !important;
+    background-image: linear-gradient(top, #A333C8, #71238b) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    background: -ms-linear-gradient(top, #A333C8, #71238b) !important;
+    background: -moz-linear-gradient(top, #A333C8, #71238b) !important;
+    background: -o-linear-gradient(top, #A333C8, #71238b) !important;
+    background: -webkit-linear-gradient(top, #A333C8, #71238b) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #A333C8), color-stop(1, #71238b)) !important; }
+  .smw-comparison.smw-basic.smw-ct-violet table thead tr th {
+    color: #321a64; }
+  .smw-comparison.smw-basic.smw-ct-violet table thead tr.smw-table-header-1st th {
+    border-top: 1px solid #835dd4;
+    border-bottom: 1px solid #46258c;
+    background-color: #6435C9 !important;
+    background-image: linear-gradient(top, #6435C9, #502aa1) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    background: -ms-linear-gradient(top, #6435C9, #502aa1) !important;
+    background: -moz-linear-gradient(top, #6435C9, #502aa1) !important;
+    background: -o-linear-gradient(top, #6435C9, #502aa1) !important;
+    background: -webkit-linear-gradient(top, #6435C9, #502aa1) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #6435C9), color-stop(1, #502aa1)) !important; }
+  .smw-comparison.smw-basic.smw-ct-violet table thead tr.smw-table-header-2nd th {
+    border-top: 1px solid #835dd4;
+    border-bottom: 1px solid #46258c;
+    background-color: #6435C9 !important;
+    background-image: linear-gradient(top, #6435C9, #46258c) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    background: -ms-linear-gradient(top, #6435C9, #46258c) !important;
+    background: -moz-linear-gradient(top, #6435C9, #46258c) !important;
+    background: -o-linear-gradient(top, #6435C9, #46258c) !important;
+    background: -webkit-linear-gradient(top, #6435C9, #46258c) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #6435C9), color-stop(1, #46258c)) !important; }
+  .smw-comparison.smw-basic.smw-ct-pink table thead tr th {
+    color: #851554; }
+  .smw-comparison.smw-basic.smw-ct-pink table thead tr.smw-table-header-1st th {
+    border-top: 1px solid #e765ae;
+    border-bottom: 1px solid #b11c70;
+    background-color: #E03997 !important;
+    background-image: linear-gradient(top, #E03997, #c71f7e) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    background: -ms-linear-gradient(top, #E03997, #c71f7e) !important;
+    background: -moz-linear-gradient(top, #E03997, #c71f7e) !important;
+    background: -o-linear-gradient(top, #E03997, #c71f7e) !important;
+    background: -webkit-linear-gradient(top, #E03997, #c71f7e) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #E03997), color-stop(1, #c71f7e)) !important; }
+  .smw-comparison.smw-basic.smw-ct-pink table thead tr.smw-table-header-2nd th {
+    border-top: 1px solid #e765ae;
+    border-bottom: 1px solid #b11c70;
+    background-color: #E03997 !important;
+    background-image: linear-gradient(top, #E03997, #b11c70) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    background: -ms-linear-gradient(top, #E03997, #b11c70) !important;
+    background: -moz-linear-gradient(top, #E03997, #b11c70) !important;
+    background: -o-linear-gradient(top, #E03997, #b11c70) !important;
+    background: -webkit-linear-gradient(top, #E03997, #b11c70) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #E03997), color-stop(1, #b11c70)) !important; }
+  .smw-comparison.smw-basic.smw-ct-brown table thead tr th {
+    color: #492d1c; }
+  .smw-comparison.smw-basic.smw-ct-brown table thead tr.smw-table-header-1st th {
+    border-top: 1px solid #bf8058;
+    border-bottom: 1px solid #6e442a;
+    background-color: #A5673F !important;
+    background-image: linear-gradient(top, #A5673F, #805031) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    background: -ms-linear-gradient(top, #A5673F, #805031) !important;
+    background: -moz-linear-gradient(top, #A5673F, #805031) !important;
+    background: -o-linear-gradient(top, #A5673F, #805031) !important;
+    background: -webkit-linear-gradient(top, #A5673F, #805031) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #A5673F), color-stop(1, #805031)) !important; }
+  .smw-comparison.smw-basic.smw-ct-brown table thead tr.smw-table-header-2nd th {
+    border-top: 1px solid #bf8058;
+    border-bottom: 1px solid #6e442a;
+    background-color: #A5673F !important;
+    background-image: linear-gradient(top, #A5673F, #6e442a) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    background: -ms-linear-gradient(top, #A5673F, #6e442a) !important;
+    background: -moz-linear-gradient(top, #A5673F, #6e442a) !important;
+    background: -o-linear-gradient(top, #A5673F, #6e442a) !important;
+    background: -webkit-linear-gradient(top, #A5673F, #6e442a) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #A5673F), color-stop(1, #6e442a)) !important; }
+  .smw-comparison.smw-basic.smw-ct-grey table thead tr th {
+    color: #363636; }
+  .smw-comparison.smw-basic.smw-ct-grey table thead tr.smw-table-header-1st th {
+    border-top: 1px solid #909090;
+    border-bottom: 1px solid #505050;
+    background-color: #767676 !important;
+    background-image: linear-gradient(top, #767676, #5d5d5d) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    background: -ms-linear-gradient(top, #767676, #5d5d5d) !important;
+    background: -moz-linear-gradient(top, #767676, #5d5d5d) !important;
+    background: -o-linear-gradient(top, #767676, #5d5d5d) !important;
+    background: -webkit-linear-gradient(top, #767676, #5d5d5d) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #767676), color-stop(1, #5d5d5d)) !important; }
+  .smw-comparison.smw-basic.smw-ct-grey table thead tr.smw-table-header-2nd th {
+    border-top: 1px solid #909090;
+    border-bottom: 1px solid #505050;
+    background-color: #767676 !important;
+    background-image: linear-gradient(top, #767676, #505050) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    background: -ms-linear-gradient(top, #767676, #505050) !important;
+    background: -moz-linear-gradient(top, #767676, #505050) !important;
+    background: -o-linear-gradient(top, #767676, #505050) !important;
+    background: -webkit-linear-gradient(top, #767676, #505050) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #767676), color-stop(1, #505050)) !important; }
+  .smw-comparison.smw-basic.smw-ct-black table thead tr th {
+    color: #404040; }
+  .smw-comparison.smw-basic.smw-ct-black table thead tr.smw-table-header-1st th {
+    border-top: 1px solid #1a1a1a;
+    border-bottom: 1px solid #262626;
+    background-color: #000 !important;
+    background-image: linear-gradient(top, #000, #1a1a1a) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    background: -ms-linear-gradient(top, #000, #1a1a1a) !important;
+    background: -moz-linear-gradient(top, #000, #1a1a1a) !important;
+    background: -o-linear-gradient(top, #000, #1a1a1a) !important;
+    background: -webkit-linear-gradient(top, #000, #1a1a1a) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #000), color-stop(1, #1a1a1a)) !important; }
+  .smw-comparison.smw-basic.smw-ct-black table thead tr.smw-table-header-2nd th {
+    border-top: 1px solid #1a1a1a;
+    border-bottom: 1px solid #262626;
+    background-color: #000 !important;
+    background-image: linear-gradient(top, #000, #262626) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    background: -ms-linear-gradient(top, #000, #262626) !important;
+    background: -moz-linear-gradient(top, #000, #262626) !important;
+    background: -o-linear-gradient(top, #000, #262626) !important;
+    background: -webkit-linear-gradient(top, #000, #262626) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #000), color-stop(1, #262626)) !important; }
+  .smw-comparison.smw-basic.smw-ct-white table thead tr th {
+    color: #bfbfbf; }
+  .smw-comparison.smw-basic.smw-ct-white table thead tr.smw-table-header-1st th {
+    border-top: 1px solid white;
+    border-bottom: 1px solid #d9d9d9;
+    background-color: #fff !important;
+    background-image: linear-gradient(top, #fff, #e6e6e6) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color2') !important;
+    background: -ms-linear-gradient(top, #fff, #e6e6e6) !important;
+    background: -moz-linear-gradient(top, #fff, #e6e6e6) !important;
+    background: -o-linear-gradient(top, #fff, #e6e6e6) !important;
+    background: -webkit-linear-gradient(top, #fff, #e6e6e6) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(1, #e6e6e6)) !important; }
+  .smw-comparison.smw-basic.smw-ct-white table thead tr.smw-table-header-2nd th {
+    border-top: 1px solid white;
+    border-bottom: 1px solid #d9d9d9;
+    background-color: #fff !important;
+    background-image: linear-gradient(top, #fff, #d9d9d9) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color-code', endColorstr='$darken-color1') !important;
+    background: -ms-linear-gradient(top, #fff, #d9d9d9) !important;
+    background: -moz-linear-gradient(top, #fff, #d9d9d9) !important;
+    background: -o-linear-gradient(top, #fff, #d9d9d9) !important;
+    background: -webkit-linear-gradient(top, #fff, #d9d9d9) !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(1, #d9d9d9)) !important; }

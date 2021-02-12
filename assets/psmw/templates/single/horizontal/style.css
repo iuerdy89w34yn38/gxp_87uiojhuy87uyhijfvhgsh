@@ -1,0 +1,49 @@
+.smw-single.smw-horizontal {
+  font-family: inherit;
+  font-size: 1.25rem;
+  margin: 0.25rem 0; }
+  .smw-single.smw-horizontal .smw-change-indicator .smw-field-symbolprice {
+    color: #fff;
+    background: #767676;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    padding: 0.2rem 0.6rem;
+    border: 1px solid #767676; }
+    .smw-single.smw-horizontal .smw-change-indicator .smw-field-symbolprice sup {
+      font-size: 0.8rem; }
+  .smw-single.smw-horizontal .smw-change-indicator .smw-field-change {
+    color: #767676;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    padding: 0.2rem 0.6rem;
+    border: 1px solid #767676;
+    font-weight: bold; }
+  .smw-single.smw-horizontal .smw-change-indicator .smw-arrow-icon {
+    font-size: 1rem; }
+  .smw-single.smw-horizontal .smw-change-indicator .smw-field-quote-regularMarketChange {
+    border-right: 1px solid #767676;
+    padding-right: 0.4rem; }
+  .smw-single.smw-horizontal .smw-change-indicator .smw-field-quote-regularMarketChangePercent {
+    padding-left: 0.4rem; }
+  .smw-single.smw-horizontal .smw-change-indicator.smw-rise > .smw-arrow-rise {
+    color: #21BA45; }
+  .smw-single.smw-horizontal .smw-change-indicator.smw-rise .smw-field-symbolprice {
+    background: #21BA45;
+    border: 1px solid #21BA45; }
+  .smw-single.smw-horizontal .smw-change-indicator.smw-rise .smw-field-change {
+    color: #21BA45;
+    padding: 0.2rem 0.6rem;
+    border: 1px solid #21BA45; }
+  .smw-single.smw-horizontal .smw-change-indicator.smw-rise .smw-field-quote-regularMarketChange {
+    border-right: 1px solid #21BA45; }
+  .smw-single.smw-horizontal .smw-change-indicator.smw-drop > .smw-arrow-drop {
+    color: #DB2828; }
+  .smw-single.smw-horizontal .smw-change-indicator.smw-drop .smw-field-symbolprice {
+    background: #DB2828;
+    border: 1px solid #DB2828; }
+  .smw-single.smw-horizontal .smw-change-indicator.smw-drop .smw-field-change {
+    color: #DB2828;
+    padding: 0.2rem 0.6rem;
+    border: 1px solid #DB2828; }
+  .smw-single.smw-horizontal .smw-change-indicator.smw-drop .smw-field-quote-regularMarketChange {
+    border-right: 1px solid #DB2828; }

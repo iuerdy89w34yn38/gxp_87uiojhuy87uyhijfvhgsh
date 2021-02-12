@@ -1,0 +1,201 @@
+.smw-table.smw-zebra {
+  /*COLOR THEMES*/ }
+  .smw-table.smw-zebra table {
+    width: 100%;
+    background: none;
+    margin: 1rem 0rem;
+    box-shadow: none;
+    border-collapse: separate;
+    border-spacing: 0px;
+    border: none; }
+    .smw-table.smw-zebra table thead th {
+      font-size: 1rem;
+      cursor: pointer;
+      white-space: normal;
+      text-align: left;
+      padding: 0.7rem 0.8rem;
+      vertical-align: middle;
+      font-weight: bold;
+      text-transform: none;
+      border: none; }
+      .smw-table.smw-zebra table thead th.ascending:after {
+        content: '\2191'; }
+      .smw-table.smw-zebra table thead th.descending:after {
+        content: '\2193'; }
+    .smw-table.smw-zebra table tbody tr td {
+      font-size: 1rem;
+      padding: 0.5rem;
+      text-align: left;
+      vertical-align: middle;
+      transition: all 0.2s ease;
+      border: none; }
+      .smw-table.smw-zebra table tbody tr td.smw-cell-with-indicator {
+        white-space: nowrap; }
+  .smw-table.smw-zebra.smw-ct-red table thead th {
+    color: #711313;
+    border-top: 2px solid #DB2828;
+    border-bottom: 2px solid #DB2828; }
+  .smw-table.smw-zebra.smw-ct-red table tbody tr {
+    background: #f8d7d7; }
+    .smw-table.smw-zebra.smw-ct-red table tbody tr:nth-child(odd) {
+      background: #f8d7d7; }
+    .smw-table.smw-zebra.smw-ct-red table tbody tr:nth-child(even) {
+      background: white; }
+    .smw-table.smw-zebra.smw-ct-red table tbody tr td {
+      color: #711313; }
+  .smw-table.smw-zebra.smw-ct-orange table thead th {
+    color: #873a08;
+    border-top: 2px solid #F2711C;
+    border-bottom: 2px solid #F2711C; }
+  .smw-table.smw-zebra.smw-ct-orange table tbody tr {
+    background: #fdeadd; }
+    .smw-table.smw-zebra.smw-ct-orange table tbody tr:nth-child(odd) {
+      background: #fdeadd; }
+    .smw-table.smw-zebra.smw-ct-orange table tbody tr:nth-child(even) {
+      background: white; }
+    .smw-table.smw-zebra.smw-ct-orange table tbody tr td {
+      color: #873a08; }
+  .smw-table.smw-zebra.smw-ct-yellow table thead th {
+    color: #816102;
+    border-top: 2px solid #FBBD08;
+    border-bottom: 2px solid #FBBD08; }
+  .smw-table.smw-zebra.smw-ct-yellow table tbody tr {
+    background: #fef3d1; }
+    .smw-table.smw-zebra.smw-ct-yellow table tbody tr:nth-child(odd) {
+      background: #fef3d1; }
+    .smw-table.smw-zebra.smw-ct-yellow table tbody tr:nth-child(even) {
+      background: white; }
+    .smw-table.smw-zebra.smw-ct-yellow table tbody tr td {
+      color: #816102; }
+  .smw-table.smw-zebra.smw-ct-olive table thead th {
+    color: #505a0b;
+    border-top: 2px solid #B5CC18;
+    border-bottom: 2px solid #B5CC18; }
+  .smw-table.smw-zebra.smw-ct-olive table tbody tr {
+    background: #eff7b9; }
+    .smw-table.smw-zebra.smw-ct-olive table tbody tr:nth-child(odd) {
+      background: #eff7b9; }
+    .smw-table.smw-zebra.smw-ct-olive table tbody tr:nth-child(even) {
+      background: #f9fce7; }
+    .smw-table.smw-zebra.smw-ct-olive table tbody tr td {
+      color: #505a0b; }
+  .smw-table.smw-zebra.smw-ct-green table thead th {
+    color: #0e4e1d;
+    border-top: 2px solid #21BA45;
+    border-bottom: 2px solid #21BA45; }
+  .smw-table.smw-zebra.smw-ct-green table tbody tr {
+    background: #b5f2c3; }
+    .smw-table.smw-zebra.smw-ct-green table tbody tr:nth-child(odd) {
+      background: #b5f2c3; }
+    .smw-table.smw-zebra.smw-ct-green table tbody tr:nth-child(even) {
+      background: #e0fae6; }
+    .smw-table.smw-zebra.smw-ct-green table tbody tr td {
+      color: #0e4e1d; }
+  .smw-table.smw-zebra.smw-ct-teal table thead th {
+    color: #003633;
+    border-top: 2px solid #00B5AD;
+    border-bottom: 2px solid #00B5AD; }
+  .smw-table.smw-zebra.smw-ct-teal table tbody tr {
+    background: #82fff9; }
+    .smw-table.smw-zebra.smw-ct-teal table tbody tr:nth-child(odd) {
+      background: #82fff9; }
+    .smw-table.smw-zebra.smw-ct-teal table tbody tr:nth-child(even) {
+      background: #b5fffc; }
+    .smw-table.smw-zebra.smw-ct-teal table tbody tr td {
+      color: #003633; }
+  .smw-table.smw-zebra.smw-ct-blue table thead th {
+    color: #103f62;
+    border-top: 2px solid #2185D0;
+    border-bottom: 2px solid #2185D0; }
+  .smw-table.smw-zebra.smw-ct-blue table tbody tr {
+    background: #c7e2f6; }
+    .smw-table.smw-zebra.smw-ct-blue table tbody tr:nth-child(odd) {
+      background: #c7e2f6; }
+    .smw-table.smw-zebra.smw-ct-blue table tbody tr:nth-child(even) {
+      background: #f3f9fd; }
+    .smw-table.smw-zebra.smw-ct-blue table tbody tr td {
+      color: #103f62; }
+  .smw-table.smw-zebra.smw-ct-purple table thead th {
+    color: #501962;
+    border-top: 2px solid #A333C8;
+    border-bottom: 2px solid #A333C8; }
+  .smw-table.smw-zebra.smw-ct-purple table tbody tr {
+    background: #ecd3f4; }
+    .smw-table.smw-zebra.smw-ct-purple table tbody tr:nth-child(odd) {
+      background: #ecd3f4; }
+    .smw-table.smw-zebra.smw-ct-purple table tbody tr:nth-child(even) {
+      background: #fefcfe; }
+    .smw-table.smw-zebra.smw-ct-purple table tbody tr td {
+      color: #501962; }
+  .smw-table.smw-zebra.smw-ct-violet table thead th {
+    color: #321a64;
+    border-top: 2px solid #6435C9;
+    border-bottom: 2px solid #6435C9; }
+  .smw-table.smw-zebra.smw-ct-violet table tbody tr {
+    background: #dfd6f4; }
+    .smw-table.smw-zebra.smw-ct-violet table tbody tr:nth-child(odd) {
+      background: #dfd6f4; }
+    .smw-table.smw-zebra.smw-ct-violet table tbody tr:nth-child(even) {
+      background: #fefeff; }
+    .smw-table.smw-zebra.smw-ct-violet table tbody tr td {
+      color: #321a64; }
+  .smw-table.smw-zebra.smw-ct-pink table thead th {
+    color: #851554;
+    border-top: 2px solid #E03997;
+    border-bottom: 2px solid #E03997; }
+  .smw-table.smw-zebra.smw-ct-pink table tbody tr {
+    background: #fce9f4; }
+    .smw-table.smw-zebra.smw-ct-pink table tbody tr:nth-child(odd) {
+      background: #fce9f4; }
+    .smw-table.smw-zebra.smw-ct-pink table tbody tr:nth-child(even) {
+      background: white; }
+    .smw-table.smw-zebra.smw-ct-pink table tbody tr td {
+      color: #851554; }
+  .smw-table.smw-zebra.smw-ct-brown table thead th {
+    color: #492d1c;
+    border-top: 2px solid #A5673F;
+    border-bottom: 2px solid #A5673F; }
+  .smw-table.smw-zebra.smw-ct-brown table tbody tr {
+    background: #e9d4c7; }
+    .smw-table.smw-zebra.smw-ct-brown table tbody tr:nth-child(odd) {
+      background: #e9d4c7; }
+    .smw-table.smw-zebra.smw-ct-brown table tbody tr:nth-child(even) {
+      background: #f8f0eb; }
+    .smw-table.smw-zebra.smw-ct-brown table tbody tr td {
+      color: #492d1c; }
+  .smw-table.smw-zebra.smw-ct-grey table thead th {
+    color: #363636;
+    border-top: 2px solid #767676;
+    border-bottom: 2px solid #767676; }
+  .smw-table.smw-zebra.smw-ct-grey table tbody tr {
+    background: gainsboro; }
+    .smw-table.smw-zebra.smw-ct-grey table tbody tr:nth-child(odd) {
+      background: gainsboro; }
+    .smw-table.smw-zebra.smw-ct-grey table tbody tr:nth-child(even) {
+      background: #f6f6f6; }
+    .smw-table.smw-zebra.smw-ct-grey table tbody tr td {
+      color: #363636; }
+  .smw-table.smw-zebra.smw-ct-black table thead th {
+    color: black;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000; }
+  .smw-table.smw-zebra.smw-ct-black table tbody tr {
+    background: #666666; }
+    .smw-table.smw-zebra.smw-ct-black table tbody tr:nth-child(odd) {
+      background: #666666; }
+    .smw-table.smw-zebra.smw-ct-black table tbody tr:nth-child(even) {
+      background: gray; }
+    .smw-table.smw-zebra.smw-ct-black table tbody tr td {
+      color: black; }
+  .smw-table.smw-zebra.smw-ct-white table thead th {
+    color: #bfbfbf;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff; }
+  .smw-table.smw-zebra.smw-ct-white table tbody tr {
+    background: white; }
+    .smw-table.smw-zebra.smw-ct-white table tbody tr:nth-child(odd) {
+      background: white; }
+    .smw-table.smw-zebra.smw-ct-white table tbody tr:nth-child(even) {
+      background: white; }
+    .smw-table.smw-zebra.smw-ct-white table tbody tr td {
+      color: #bfbfbf; }

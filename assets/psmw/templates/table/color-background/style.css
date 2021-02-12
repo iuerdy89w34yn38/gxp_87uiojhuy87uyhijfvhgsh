@@ -1,0 +1,143 @@
+.smw-table.smw-color-background {
+  /*COLOR THEMES*/ }
+  .smw-table.smw-color-background table {
+    width: 100%;
+    background: #ffffff;
+    margin: 1rem 0rem;
+    box-shadow: none;
+    border-radius: 0;
+    border-collapse: separate;
+    border-spacing: 0px;
+    border: none; }
+    .smw-table.smw-color-background table thead th {
+      font-size: 1rem;
+      cursor: pointer;
+      white-space: normal;
+      text-align: left;
+      padding: 0.5rem 0.5rem;
+      vertical-align: middle;
+      font-weight: bold;
+      text-transform: none;
+      border: none; }
+      .smw-table.smw-color-background table thead th.smw-field-quote-regularMarketChangePercent, .smw-table.smw-color-background table thead th.smw-field-quote-regularMarketChange {
+        text-align: right; }
+      .smw-table.smw-color-background table thead th.ascending:after {
+        content: '\2191'; }
+      .smw-table.smw-color-background table thead th.descending:after {
+        content: '\2193'; }
+      .smw-table.smw-color-background table thead th:last-child {
+        text-align: right; }
+    .smw-table.smw-color-background table tbody tr td {
+      font-size: 1rem;
+      padding: 0.5rem 0.5rem;
+      text-align: left;
+      vertical-align: middle;
+      transition: all 0.2s ease;
+      border: none;
+      /*&.smw-field-quote-regularMarketChangePercent, &.smw-field-quote-regularMarketChange {
+            text-align: right;
+          }*/ }
+      .smw-table.smw-color-background table tbody tr td:last-child {
+        text-align: right; }
+      .smw-table.smw-color-background table tbody tr td.smw-cell-with-indicator {
+        white-space: nowrap; }
+      .smw-table.smw-color-background table tbody tr td.smw-change-indicator {
+        font-weight: bold; }
+  .smw-table.smw-color-background.smw-ct-red table {
+    background: #DB2828;
+    color: #fff; }
+    .smw-table.smw-color-background.smw-ct-red table thead th {
+      border-bottom: 2px solid #fff; }
+    .smw-table.smw-color-background.smw-ct-red table tbody tr td {
+      border-bottom: 1px solid #fff; }
+  .smw-table.smw-color-background.smw-ct-orange table {
+    background: #F2711C;
+    color: #fff; }
+    .smw-table.smw-color-background.smw-ct-orange table thead th {
+      border-bottom: 2px solid #fff; }
+    .smw-table.smw-color-background.smw-ct-orange table tbody tr td {
+      border-bottom: 1px solid #fff; }
+  .smw-table.smw-color-background.smw-ct-yellow table {
+    background: #FBBD08;
+    color: #fff; }
+    .smw-table.smw-color-background.smw-ct-yellow table thead th {
+      border-bottom: 2px solid #fff; }
+    .smw-table.smw-color-background.smw-ct-yellow table tbody tr td {
+      border-bottom: 1px solid #fff; }
+  .smw-table.smw-color-background.smw-ct-olive table {
+    background: #B5CC18;
+    color: #fff; }
+    .smw-table.smw-color-background.smw-ct-olive table thead th {
+      border-bottom: 2px solid #fff; }
+    .smw-table.smw-color-background.smw-ct-olive table tbody tr td {
+      border-bottom: 1px solid #fff; }
+  .smw-table.smw-color-background.smw-ct-green table {
+    background: #21BA45;
+    color: #fff; }
+    .smw-table.smw-color-background.smw-ct-green table thead th {
+      border-bottom: 2px solid #fff; }
+    .smw-table.smw-color-background.smw-ct-green table tbody tr td {
+      border-bottom: 1px solid #fff; }
+  .smw-table.smw-color-background.smw-ct-teal table {
+    background: #00B5AD;
+    color: #fff; }
+    .smw-table.smw-color-background.smw-ct-teal table thead th {
+      border-bottom: 2px solid #fff; }
+    .smw-table.smw-color-background.smw-ct-teal table tbody tr td {
+      border-bottom: 1px solid #fff; }
+  .smw-table.smw-color-background.smw-ct-blue table {
+    background: #2185D0;
+    color: #fff; }
+    .smw-table.smw-color-background.smw-ct-blue table thead th {
+      border-bottom: 2px solid #fff; }
+    .smw-table.smw-color-background.smw-ct-blue table tbody tr td {
+      border-bottom: 1px solid #fff; }
+  .smw-table.smw-color-background.smw-ct-purple table {
+    background: #A333C8;
+    color: #fff; }
+    .smw-table.smw-color-background.smw-ct-purple table thead th {
+      border-bottom: 2px solid #fff; }
+    .smw-table.smw-color-background.smw-ct-purple table tbody tr td {
+      border-bottom: 1px solid #fff; }
+  .smw-table.smw-color-background.smw-ct-violet table {
+    background: #6435C9;
+    color: #fff; }
+    .smw-table.smw-color-background.smw-ct-violet table thead th {
+      border-bottom: 2px solid #fff; }
+    .smw-table.smw-color-background.smw-ct-violet table tbody tr td {
+      border-bottom: 1px solid #fff; }
+  .smw-table.smw-color-background.smw-ct-pink table {
+    background: #E03997;
+    color: #fff; }
+    .smw-table.smw-color-background.smw-ct-pink table thead th {
+      border-bottom: 2px solid #fff; }
+    .smw-table.smw-color-background.smw-ct-pink table tbody tr td {
+      border-bottom: 1px solid #fff; }
+  .smw-table.smw-color-background.smw-ct-brown table {
+    background: #A5673F;
+    color: #fff; }
+    .smw-table.smw-color-background.smw-ct-brown table thead th {
+      border-bottom: 2px solid #fff; }
+    .smw-table.smw-color-background.smw-ct-brown table tbody tr td {
+      border-bottom: 1px solid #fff; }
+  .smw-table.smw-color-background.smw-ct-grey table {
+    background: #767676;
+    color: #fff; }
+    .smw-table.smw-color-background.smw-ct-grey table thead th {
+      border-bottom: 2px solid #fff; }
+    .smw-table.smw-color-background.smw-ct-grey table tbody tr td {
+      border-bottom: 1px solid #fff; }
+  .smw-table.smw-color-background.smw-ct-black table {
+    background: #000;
+    color: #fff; }
+    .smw-table.smw-color-background.smw-ct-black table thead th {
+      border-bottom: 2px solid #fff; }
+    .smw-table.smw-color-background.smw-ct-black table tbody tr td {
+      border-bottom: 1px solid #fff; }
+  .smw-table.smw-color-background.smw-ct-white table {
+    background: #fff;
+    color: #fff; }
+    .smw-table.smw-color-background.smw-ct-white table thead th {
+      border-bottom: 2px solid #fff; }
+    .smw-table.smw-color-background.smw-ct-white table tbody tr td {
+      border-bottom: 1px solid #fff; }

@@ -1,0 +1,102 @@
+.smw-single.smw-gradient {
+  font-family: inherit;
+  font-size: 1rem;
+  text-align: center;
+  color: #fffff0;
+  padding: 1em 1em;
+  border-radius: 0.2857rem;
+  /*COLOR THEMES*/ }
+  .smw-single.smw-gradient .smw-field-virtual-symbol {
+    font-size: 1.8rem;
+    line-height: 2rem; }
+  .smw-single.smw-gradient .smw-field-virtual-name {
+    font-size: 1.1rem;
+    padding: 0.3rem 0; }
+  .smw-single.smw-gradient .smw-last-price-container {
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1.9rem; }
+  .smw-single.smw-gradient.smw-ct-red {
+    background: #DB2828;
+    background: -moz-linear-gradient(top, #DB2828 0%, #e45c5c 100%);
+    background: -webkit-linear-gradient(top, #DB2828 0%, #e45c5c 100%);
+    background: linear-gradient(to bottom, #DB2828 0%, #e45c5c 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-code', endColorstr='$color-light',GradientType=0 ); }
+  .smw-single.smw-gradient.smw-ct-orange {
+    background: #F2711C;
+    background: -moz-linear-gradient(top, #F2711C 0%, #f59556 100%);
+    background: -webkit-linear-gradient(top, #F2711C 0%, #f59556 100%);
+    background: linear-gradient(to bottom, #F2711C 0%, #f59556 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-code', endColorstr='$color-light',GradientType=0 ); }
+  .smw-single.smw-gradient.smw-ct-yellow {
+    background: #FBBD08;
+    background: -moz-linear-gradient(top, #FBBD08 0%, #fccd44 100%);
+    background: -webkit-linear-gradient(top, #FBBD08 0%, #fccd44 100%);
+    background: linear-gradient(to bottom, #FBBD08 0%, #fccd44 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-code', endColorstr='$color-light',GradientType=0 ); }
+  .smw-single.smw-gradient.smw-ct-olive {
+    background: #B5CC18;
+    background: -moz-linear-gradient(top, #B5CC18 0%, #d1e839 100%);
+    background: -webkit-linear-gradient(top, #B5CC18 0%, #d1e839 100%);
+    background: linear-gradient(to bottom, #B5CC18 0%, #d1e839 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-code', endColorstr='$color-light',GradientType=0 ); }
+  .smw-single.smw-gradient.smw-ct-green {
+    background: #21BA45;
+    background: -moz-linear-gradient(top, #21BA45 0%, #3cdc62 100%);
+    background: -webkit-linear-gradient(top, #21BA45 0%, #3cdc62 100%);
+    background: linear-gradient(to bottom, #21BA45 0%, #3cdc62 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-code', endColorstr='$color-light',GradientType=0 ); }
+  .smw-single.smw-gradient.smw-ct-teal {
+    background: #00B5AD;
+    background: -moz-linear-gradient(top, #00B5AD 0%, #00f2e7 100%);
+    background: -webkit-linear-gradient(top, #00B5AD 0%, #00f2e7 100%);
+    background: linear-gradient(to bottom, #00B5AD 0%, #00f2e7 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-code', endColorstr='$color-light',GradientType=0 ); }
+  .smw-single.smw-gradient.smw-ct-blue {
+    background: #2185D0;
+    background: -moz-linear-gradient(top, #2185D0 0%, #4ca2e3 100%);
+    background: -webkit-linear-gradient(top, #2185D0 0%, #4ca2e3 100%);
+    background: linear-gradient(to bottom, #2185D0 0%, #4ca2e3 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-code', endColorstr='$color-light',GradientType=0 ); }
+  .smw-single.smw-gradient.smw-ct-purple {
+    background: #A333C8;
+    background: -moz-linear-gradient(top, #A333C8 0%, #ba61d7 100%);
+    background: -webkit-linear-gradient(top, #A333C8 0%, #ba61d7 100%);
+    background: linear-gradient(to bottom, #A333C8 0%, #ba61d7 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-code', endColorstr='$color-light',GradientType=0 ); }
+  .smw-single.smw-gradient.smw-ct-violet {
+    background: #6435C9;
+    background: -moz-linear-gradient(top, #6435C9 0%, #8965d6 100%);
+    background: -webkit-linear-gradient(top, #6435C9 0%, #8965d6 100%);
+    background: linear-gradient(to bottom, #6435C9 0%, #8965d6 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-code', endColorstr='$color-light',GradientType=0 ); }
+  .smw-single.smw-gradient.smw-ct-pink {
+    background: #E03997;
+    background: -moz-linear-gradient(top, #E03997 0%, #e86eb3 100%);
+    background: -webkit-linear-gradient(top, #E03997 0%, #e86eb3 100%);
+    background: linear-gradient(to bottom, #E03997 0%, #e86eb3 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-code', endColorstr='$color-light',GradientType=0 ); }
+  .smw-single.smw-gradient.smw-ct-brown {
+    background: #A5673F;
+    background: -moz-linear-gradient(top, #A5673F 0%, #c2865f 100%);
+    background: -webkit-linear-gradient(top, #A5673F 0%, #c2865f 100%);
+    background: linear-gradient(to bottom, #A5673F 0%, #c2865f 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-code', endColorstr='$color-light',GradientType=0 ); }
+  .smw-single.smw-gradient.smw-ct-grey {
+    background: #767676;
+    background: -moz-linear-gradient(top, #767676 0%, #959595 100%);
+    background: -webkit-linear-gradient(top, #767676 0%, #959595 100%);
+    background: linear-gradient(to bottom, #767676 0%, #959595 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-code', endColorstr='$color-light',GradientType=0 ); }
+  .smw-single.smw-gradient.smw-ct-black {
+    background: #000;
+    background: -moz-linear-gradient(top, #000 0%, #1f1f1f 100%);
+    background: -webkit-linear-gradient(top, #000 0%, #1f1f1f 100%);
+    background: linear-gradient(to bottom, #000 0%, #1f1f1f 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-code', endColorstr='$color-light',GradientType=0 ); }
+  .smw-single.smw-gradient.smw-ct-white {
+    background: #fff;
+    background: -moz-linear-gradient(top, #fff 0%, white 100%);
+    background: -webkit-linear-gradient(top, #fff 0%, white 100%);
+    background: linear-gradient(to bottom, #fff 0%, white 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-code', endColorstr='$color-light',GradientType=0 ); }

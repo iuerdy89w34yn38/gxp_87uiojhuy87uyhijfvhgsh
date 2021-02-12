@@ -1,0 +1,132 @@
+.smw-comparison.smw-black-background {
+  /*COLOR THEMES*/ }
+  .smw-comparison.smw-black-background table {
+    width: 100%;
+    box-shadow: none;
+    background: #000;
+    border: none;
+    border-spacing: 0px; }
+    .smw-comparison.smw-black-background table thead tr th {
+      white-space: normal;
+      text-align: center;
+      vertical-align: middle;
+      font-weight: normal;
+      text-transform: none;
+      white-space: nowrap;
+      border: none; }
+    .smw-comparison.smw-black-background table thead tr.smw-table-header-1st th {
+      padding: 0.5rem;
+      font-size: 1.6rem;
+      line-height: 1.6rem; }
+    .smw-comparison.smw-black-background table thead tr.smw-table-header-2nd th {
+      padding: 1rem 0.6rem; }
+      .smw-comparison.smw-black-background table thead tr.smw-table-header-2nd th .smw-field-quote-currency {
+        font-size: 1rem;
+        line-height: 1rem; }
+      .smw-comparison.smw-black-background table thead tr.smw-table-header-2nd th .smw-field-quote-regularMarketPrice {
+        font-size: 2.8rem;
+        line-height: 2.8rem; }
+    .smw-comparison.smw-black-background table tbody tr td {
+      font-size: 1rem;
+      padding: 0.7em;
+      text-align: center;
+      vertical-align: middle;
+      border: none; }
+  .smw-comparison.smw-black-background.smw-ct-red table thead tr th {
+    color: #DB2828; }
+  .smw-comparison.smw-black-background.smw-ct-red table thead tr.smw-table-header-2nd th {
+    border-bottom: 2px solid #DB2828; }
+  .smw-comparison.smw-black-background.smw-ct-red table tbody tr td {
+    border-bottom: 1px solid #DB2828;
+    color: #DB2828; }
+  .smw-comparison.smw-black-background.smw-ct-orange table thead tr th {
+    color: #F2711C; }
+  .smw-comparison.smw-black-background.smw-ct-orange table thead tr.smw-table-header-2nd th {
+    border-bottom: 2px solid #F2711C; }
+  .smw-comparison.smw-black-background.smw-ct-orange table tbody tr td {
+    border-bottom: 1px solid #F2711C;
+    color: #F2711C; }
+  .smw-comparison.smw-black-background.smw-ct-yellow table thead tr th {
+    color: #FBBD08; }
+  .smw-comparison.smw-black-background.smw-ct-yellow table thead tr.smw-table-header-2nd th {
+    border-bottom: 2px solid #FBBD08; }
+  .smw-comparison.smw-black-background.smw-ct-yellow table tbody tr td {
+    border-bottom: 1px solid #FBBD08;
+    color: #FBBD08; }
+  .smw-comparison.smw-black-background.smw-ct-olive table thead tr th {
+    color: #B5CC18; }
+  .smw-comparison.smw-black-background.smw-ct-olive table thead tr.smw-table-header-2nd th {
+    border-bottom: 2px solid #B5CC18; }
+  .smw-comparison.smw-black-background.smw-ct-olive table tbody tr td {
+    border-bottom: 1px solid #B5CC18;
+    color: #B5CC18; }
+  .smw-comparison.smw-black-background.smw-ct-green table thead tr th {
+    color: #21BA45; }
+  .smw-comparison.smw-black-background.smw-ct-green table thead tr.smw-table-header-2nd th {
+    border-bottom: 2px solid #21BA45; }
+  .smw-comparison.smw-black-background.smw-ct-green table tbody tr td {
+    border-bottom: 1px solid #21BA45;
+    color: #21BA45; }
+  .smw-comparison.smw-black-background.smw-ct-teal table thead tr th {
+    color: #00B5AD; }
+  .smw-comparison.smw-black-background.smw-ct-teal table thead tr.smw-table-header-2nd th {
+    border-bottom: 2px solid #00B5AD; }
+  .smw-comparison.smw-black-background.smw-ct-teal table tbody tr td {
+    border-bottom: 1px solid #00B5AD;
+    color: #00B5AD; }
+  .smw-comparison.smw-black-background.smw-ct-blue table thead tr th {
+    color: #2185D0; }
+  .smw-comparison.smw-black-background.smw-ct-blue table thead tr.smw-table-header-2nd th {
+    border-bottom: 2px solid #2185D0; }
+  .smw-comparison.smw-black-background.smw-ct-blue table tbody tr td {
+    border-bottom: 1px solid #2185D0;
+    color: #2185D0; }
+  .smw-comparison.smw-black-background.smw-ct-purple table thead tr th {
+    color: #A333C8; }
+  .smw-comparison.smw-black-background.smw-ct-purple table thead tr.smw-table-header-2nd th {
+    border-bottom: 2px solid #A333C8; }
+  .smw-comparison.smw-black-background.smw-ct-purple table tbody tr td {
+    border-bottom: 1px solid #A333C8;
+    color: #A333C8; }
+  .smw-comparison.smw-black-background.smw-ct-violet table thead tr th {
+    color: #6435C9; }
+  .smw-comparison.smw-black-background.smw-ct-violet table thead tr.smw-table-header-2nd th {
+    border-bottom: 2px solid #6435C9; }
+  .smw-comparison.smw-black-background.smw-ct-violet table tbody tr td {
+    border-bottom: 1px solid #6435C9;
+    color: #6435C9; }
+  .smw-comparison.smw-black-background.smw-ct-pink table thead tr th {
+    color: #E03997; }
+  .smw-comparison.smw-black-background.smw-ct-pink table thead tr.smw-table-header-2nd th {
+    border-bottom: 2px solid #E03997; }
+  .smw-comparison.smw-black-background.smw-ct-pink table tbody tr td {
+    border-bottom: 1px solid #E03997;
+    color: #E03997; }
+  .smw-comparison.smw-black-background.smw-ct-brown table thead tr th {
+    color: #A5673F; }
+  .smw-comparison.smw-black-background.smw-ct-brown table thead tr.smw-table-header-2nd th {
+    border-bottom: 2px solid #A5673F; }
+  .smw-comparison.smw-black-background.smw-ct-brown table tbody tr td {
+    border-bottom: 1px solid #A5673F;
+    color: #A5673F; }
+  .smw-comparison.smw-black-background.smw-ct-grey table thead tr th {
+    color: #767676; }
+  .smw-comparison.smw-black-background.smw-ct-grey table thead tr.smw-table-header-2nd th {
+    border-bottom: 2px solid #767676; }
+  .smw-comparison.smw-black-background.smw-ct-grey table tbody tr td {
+    border-bottom: 1px solid #767676;
+    color: #767676; }
+  .smw-comparison.smw-black-background.smw-ct-black table thead tr th {
+    color: #000; }
+  .smw-comparison.smw-black-background.smw-ct-black table thead tr.smw-table-header-2nd th {
+    border-bottom: 2px solid #000; }
+  .smw-comparison.smw-black-background.smw-ct-black table tbody tr td {
+    border-bottom: 1px solid #000;
+    color: #000; }
+  .smw-comparison.smw-black-background.smw-ct-white table thead tr th {
+    color: #fff; }
+  .smw-comparison.smw-black-background.smw-ct-white table thead tr.smw-table-header-2nd th {
+    border-bottom: 2px solid #fff; }
+  .smw-comparison.smw-black-background.smw-ct-white table tbody tr td {
+    border-bottom: 1px solid #fff;
+    color: #fff; }

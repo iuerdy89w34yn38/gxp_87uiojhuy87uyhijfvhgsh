@@ -1,0 +1,35 @@
+.smw-spark.smw-line {
+  font-family: inherit;
+  line-height: 1.5rem;
+  font-size: 1rem;
+  /*COLOR THEMES*/ }
+  .smw-spark.smw-line .smw-field-virtual-name {
+    font-weight: bold; }
+  .smw-spark.smw-line.smw-ct-red {
+    color: #DB2828; }
+  .smw-spark.smw-line.smw-ct-orange {
+    color: #F2711C; }
+  .smw-spark.smw-line.smw-ct-yellow {
+    color: #FBBD08; }
+  .smw-spark.smw-line.smw-ct-olive {
+    color: #B5CC18; }
+  .smw-spark.smw-line.smw-ct-green {
+    color: #21BA45; }
+  .smw-spark.smw-line.smw-ct-teal {
+    color: #00B5AD; }
+  .smw-spark.smw-line.smw-ct-blue {
+    color: #2185D0; }
+  .smw-spark.smw-line.smw-ct-purple {
+    color: #A333C8; }
+  .smw-spark.smw-line.smw-ct-violet {
+    color: #6435C9; }
+  .smw-spark.smw-line.smw-ct-pink {
+    color: #E03997; }
+  .smw-spark.smw-line.smw-ct-brown {
+    color: #A5673F; }
+  .smw-spark.smw-line.smw-ct-grey {
+    color: #767676; }
+  .smw-spark.smw-line.smw-ct-black {
+    color: #000; }
+  .smw-spark.smw-line.smw-ct-white {
+    color: #fff; }

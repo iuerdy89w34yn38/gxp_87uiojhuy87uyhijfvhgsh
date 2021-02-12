@@ -1,0 +1,60 @@
+{
+  "inline": {
+    "basic": "Basic",
+    "basic2": "Basic 2"
+  },
+  "single": {
+    "basic": "Basic",
+    "basic2": "Basic 2",
+    "basic3": "Basic 3",
+    "rounded": "Rounded",
+    "header": "Color header",
+    "background": "Color background",
+    "gradient": "Gradient background",
+    "horizontal": "Horizontal (green / red)",
+    "circle": "Circle"
+  },
+  "spark": {
+    "line": "Spark line chart",
+    "line2": "Spark line chart 2",
+    "line3": "Spark line chart 3",
+    "bar": "Spark bar chart"
+  },
+  "leaderboard": {
+    "basic": "Basic",
+    "color-frame": "Color frame",
+    "background": "Color background",
+    "black-background": "Black background"
+  },
+  "table": {
+    "basic": "Basic",
+    "color-text": "Color text",
+    "color-background": "Color background",
+    "color-header-rounded": "Color header rounded",
+    "color-header-border": "Color header & border",
+    "zebra": "Zebra"
+  },
+  "combo": {
+    "tablechart": "Table & chart",
+    "tablechart2": "Table & chart (modal)",
+    "tablechart3": "Table & chart (extended modal)"
+  },
+  "portfolio": {
+    "basic": "Basic",
+    "color-text": "Color text",
+    "color-background": "Color background",
+    "color-header-rounded": "Color header rounded",
+    "color-header-border": "Color header & border",
+    "zebra": "Zebra"
+  },
+  "comparison": {
+    "basic": "Basic",
+    "background": "Color background",
+    "black-background": "Black background"
+  },
+  "ticker": {
+    "basic": "Basic",
+    "basic2": "Basic 2",
+    "background": "Color background"
+  }
+}

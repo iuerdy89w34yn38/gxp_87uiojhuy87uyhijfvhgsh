@@ -1,0 +1,37 @@
+.smw-spark.smw-bar {
+  font-family: inherit;
+  line-height: 1.5rem;
+  font-size: 1.5rem;
+  padding-left: 0.5rem;
+  color: #2b2b2b;
+  /*COLOR THEMES*/ }
+  .smw-spark.smw-bar .smw-field-virtual-name {
+    font-weight: bold; }
+  .smw-spark.smw-bar.smw-ct-red {
+    border-left: 5px solid #DB2828; }
+  .smw-spark.smw-bar.smw-ct-orange {
+    border-left: 5px solid #F2711C; }
+  .smw-spark.smw-bar.smw-ct-yellow {
+    border-left: 5px solid #FBBD08; }
+  .smw-spark.smw-bar.smw-ct-olive {
+    border-left: 5px solid #B5CC18; }
+  .smw-spark.smw-bar.smw-ct-green {
+    border-left: 5px solid #21BA45; }
+  .smw-spark.smw-bar.smw-ct-teal {
+    border-left: 5px solid #00B5AD; }
+  .smw-spark.smw-bar.smw-ct-blue {
+    border-left: 5px solid #2185D0; }
+  .smw-spark.smw-bar.smw-ct-purple {
+    border-left: 5px solid #A333C8; }
+  .smw-spark.smw-bar.smw-ct-violet {
+    border-left: 5px solid #6435C9; }
+  .smw-spark.smw-bar.smw-ct-pink {
+    border-left: 5px solid #E03997; }
+  .smw-spark.smw-bar.smw-ct-brown {
+    border-left: 5px solid #A5673F; }
+  .smw-spark.smw-bar.smw-ct-grey {
+    border-left: 5px solid #767676; }
+  .smw-spark.smw-bar.smw-ct-black {
+    border-left: 5px solid #000; }
+  .smw-spark.smw-bar.smw-ct-white {
+    border-left: 5px solid #fff; }

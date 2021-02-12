@@ -1,0 +1,77 @@
+Premium Stock Market Widgets
+----------------------------
+
+CHANGES HISTORY
+---------------
+v1.8.3 - 11 November 2017
+- Bug fixes.
+
+v1.8.2 - 10 November 2017
+- Bug fixes: display correct quotes for futures, currencies and other types of assets. Display correct asset name.
+After upgrading from 1.8.1 or earlier versions table, comparison, portfolio, combo widgets shortcodes might need to be rebuilt.
+
+v1.8.1 - 03 November 2017
+- Various bug fixes.
+
+v1.8.0 - 02 November 2017
+- Major issue fix: a new data source is implemented instead of the old decommissioned API.
+  IMPORTANT: all widgets shortcodes need to be re-built. WordPress plugin users can do it through the admin panel.
+
+v1.7.6 - 26 September 2017
+- New combo widgets are added
+
+v1.7.5 - 30 June 2017
+- Chart and combo widgets are added back
+- Performance improvements and bug fixes
+
+v1.7.4 - 22 May 2017
+- Static chart and combo widgets are removed as the 3rd party charts provider stopped supporting them.
+- Different market data source is implemented to display sparkline charts widgets and some indexes (DJIA, IBEX etc)
+
+v1.7.3 - 04 May 2017
+- Bug fix: Asset search autocomplete function stopped working
+
+v1.7.2 - 19 Apr 2017
+- Bug fix: spark charts widgets stopped working
+
+v1.7.1 - 28 Mar 2017
+- Issue fixed when DJI quote was not availale in table and ticker widgets
+
+v1.7.0 - 15 Mar 2017
+- Simple portfolio widgets are implemented
+- Performance improvements
+
+v1.6.1 - 03 Feb 2017
+- PHP 5.6 dependency removed, so that the plugin can work on servers with PHP 5.4+
+
+v1.6.0 - 30 Jan 2017
+- Asset name override feature on the plugin settings page
+- New widget type: Box widgets with sparkline charts
+- New widget type: Leaderboard
+- Support for Dow Jones Industrial Average index added
+- Support for NSE, BSE, Madrid Stock Exchanges added (only quotes without extended data)
+
+v1.5.0 - 20 Jan 2017
+- Plugin settings page added
+- Click-sort feature added to table widgets
+
+v1.4.1 - 09 Dec 2016
+- Fixed PHP 5.4 compatibility issue, which caused "Parse error: syntax error, unexpected '(array)' (array) (T_ARRAY_CAST)"
+- Pulsate effect added when any values are changed during widget data refresh (if auto refresh option is specified)
+- Mutual funds added to predefined collections
+
+v1.4.0 - 05 Dec 2016
+- Significant performance optimization and overall refactoring
+- New templates added
+- New widget types added: inline and comparison
+- Predefined asset collections added for bulk adding symbols (stock indices, currencies, commodities, ETFs)
+
+v1.3.0 - 18 Nov 2016
+- Bug fix: some widgets were floating above the main post content
+- New feature: Circle template added to single quote widgets
+
+v1.2.0 - 14 Nov 2016
+- New feature: technical indicators added to static charts
+
+v1.0.0 - 09 Nov 2016
+- Initial release

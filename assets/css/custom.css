@@ -1,0 +1,24 @@
+.package-card__title{
+	background: url('https://i.gifer.com/origin/53/53593ca2efaa2b6745f4e55c8dbcbef5_w200.gif');
+    padding: 32px;
+    background-size: cover;
+    background-position: center;
+}
+
+.border-btn, .cmn-btn, .base--bg, .subscribe-form .subscribe-btn, .pagination li.disabled .page-link, .pagination li, .page-link, .contact-item, .header .main-menu li .sub-menu, .d-widget, .blog-details__footer .social__links li a:hover, .sidebar .widget .widget__title::after, select option, .account-menu .icon i, .account-menu .icon .account-submenu {
+    background: url(https://viralchop.com/wp-content/uploads/2018/03/bitcoin-disco-ball.gif);
+    background-position: center;
+    background-size: 165%;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+.border-btn:hover, .cmn-btn:hover, .team-card:hover, .page-link:hover, .investor-card:hover, .pagination li.active  {
+    background: #000;
+    background-position: center;
+    background-size: 165%;
+    color: white;
+    font-size: 20px;
+}

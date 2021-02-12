@@ -1,0 +1,56 @@
+.smw-single.smw-background {
+  font-family: inherit;
+  background-color: #242424;
+  color: #FFFAF0;
+  padding: 0.33rem;
+  text-align: center;
+  font-size: 1rem;
+  /*COLOR THEMES*/ }
+  .smw-single.smw-background .smw-field-virtual-name {
+    display: inline-block;
+    font-size: 1.25rem;
+    line-height: 1.25rem;
+    font-weight: 700; }
+  .smw-single.smw-background .smw-second-line {
+    display: block;
+    vertical-align: bottom;
+    padding: 0.2rem 0; }
+  .smw-single.smw-background .smw-field-quote-regularMarketPrice {
+    font-size: 1.75rem;
+    line-height: 1.75rem;
+    font-weight: 700; }
+  .smw-single.smw-background .smw-field-summaryDetail-currency {
+    font-size: 0.75rem;
+    line-height: 0.75rem; }
+  .smw-single.smw-background .smw-colorbox-line {
+    font-size: 1rem;
+    display: block;
+    vertical-align: bottom; }
+  .smw-single.smw-background.smw-ct-red {
+    background-color: #DB2828; }
+  .smw-single.smw-background.smw-ct-orange {
+    background-color: #F2711C; }
+  .smw-single.smw-background.smw-ct-yellow {
+    background-color: #FBBD08; }
+  .smw-single.smw-background.smw-ct-olive {
+    background-color: #B5CC18; }
+  .smw-single.smw-background.smw-ct-green {
+    background-color: #21BA45; }
+  .smw-single.smw-background.smw-ct-teal {
+    background-color: #00B5AD; }
+  .smw-single.smw-background.smw-ct-blue {
+    background-color: #2185D0; }
+  .smw-single.smw-background.smw-ct-purple {
+    background-color: #A333C8; }
+  .smw-single.smw-background.smw-ct-violet {
+    background-color: #6435C9; }
+  .smw-single.smw-background.smw-ct-pink {
+    background-color: #E03997; }
+  .smw-single.smw-background.smw-ct-brown {
+    background-color: #A5673F; }
+  .smw-single.smw-background.smw-ct-grey {
+    background-color: #767676; }
+  .smw-single.smw-background.smw-ct-black {
+    background-color: #000; }
+  .smw-single.smw-background.smw-ct-white {
+    background-color: #fff; }

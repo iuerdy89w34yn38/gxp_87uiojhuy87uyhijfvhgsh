@@ -1,0 +1,38 @@
+.smw-single.smw-basic {
+  font-family: inherit;
+  font-size: 1rem;
+  /*COLOR THEMES*/ }
+  .smw-single.smw-basic .smw-field-virtual-name {
+    font-weight: bold; }
+  .smw-single.smw-basic .smw-field-quote-regularMarketPrice {
+    line-height: 2rem;
+    font-weight: 700;
+    display: inline-block; }
+  .smw-single.smw-basic.smw-ct-red {
+    color: #DB2828; }
+  .smw-single.smw-basic.smw-ct-orange {
+    color: #F2711C; }
+  .smw-single.smw-basic.smw-ct-yellow {
+    color: #FBBD08; }
+  .smw-single.smw-basic.smw-ct-olive {
+    color: #B5CC18; }
+  .smw-single.smw-basic.smw-ct-green {
+    color: #21BA45; }
+  .smw-single.smw-basic.smw-ct-teal {
+    color: #00B5AD; }
+  .smw-single.smw-basic.smw-ct-blue {
+    color: #2185D0; }
+  .smw-single.smw-basic.smw-ct-purple {
+    color: #A333C8; }
+  .smw-single.smw-basic.smw-ct-violet {
+    color: #6435C9; }
+  .smw-single.smw-basic.smw-ct-pink {
+    color: #E03997; }
+  .smw-single.smw-basic.smw-ct-brown {
+    color: #A5673F; }
+  .smw-single.smw-basic.smw-ct-grey {
+    color: #767676; }
+  .smw-single.smw-basic.smw-ct-black {
+    color: #000; }
+  .smw-single.smw-basic.smw-ct-white {
+    color: #fff; }

@@ -1,0 +1,85 @@
+.smw-single.smw-header {
+  font-family: inherit;
+  font-size: 1rem;
+  /*COLOR THEMES*/ }
+  .smw-single.smw-header .smw-arrow-icon {
+    display: none; }
+  .smw-single.smw-header .smw-top-border {
+    height: 1.25rem; }
+  .smw-single.smw-header .smw-content {
+    border-bottom: dotted 0.0625rem; }
+  .smw-single.smw-header .smw-field-virtual-name {
+    color: #555;
+    line-height: 1.125rem;
+    font-size: 1.125rem; }
+  .smw-single.smw-header .smw-field-virtual-symbol {
+    font-size: 1.875rem;
+    line-height: 1.875rem;
+    margin-top: 0.125rem;
+    font-weight: 700; }
+  .smw-single.smw-header .smw-quote-container {
+    margin-top: 0.9375rem;
+    padding-bottom: 0.125rem; }
+  .smw-single.smw-header .smw-rate {
+    display: inline-block;
+    font-size: 2.25rem;
+    line-height: 2.25rem;
+    font-weight: 400; }
+  .smw-single.smw-header .smw-field-summaryDetail-currency {
+    display: inline-block;
+    color: #999;
+    font-size: 0.75rem;
+    padding-left: 0.125rem; }
+  .smw-single.smw-header .smw-change {
+    display: inline-block;
+    float: right;
+    text-align: right;
+    padding-right: 0.2rem;
+    line-height: 1.125rem;
+    font-size: 1.125rem; }
+  .smw-single.smw-header .smw-change-indicator.smw-rise > .smw-arrow-rise {
+    display: inline-block; }
+  .smw-single.smw-header .smw-change-indicator.smw-drop > .smw-arrow-drop {
+    display: inline-block; }
+  .smw-single.smw-header .smw-drop {
+    color: red; }
+  .smw-single.smw-header .smw-rise {
+    color: green; }
+  .smw-single.smw-header .smw-content {
+    background-color: #fff; }
+  .smw-single.smw-header .smw-company {
+    color: #828282; }
+  .smw-single.smw-header .smw-currency {
+    color: #949494; }
+  .smw-single.smw-header .smw-change.smw-rise {
+    color: #1dcc92; }
+  .smw-single.smw-header .smw-change.smw-drop {
+    color: #FF0000; }
+  .smw-single.smw-header.smw-ct-red .smw-top-border {
+    background-color: #DB2828; }
+  .smw-single.smw-header.smw-ct-orange .smw-top-border {
+    background-color: #F2711C; }
+  .smw-single.smw-header.smw-ct-yellow .smw-top-border {
+    background-color: #FBBD08; }
+  .smw-single.smw-header.smw-ct-olive .smw-top-border {
+    background-color: #B5CC18; }
+  .smw-single.smw-header.smw-ct-green .smw-top-border {
+    background-color: #21BA45; }
+  .smw-single.smw-header.smw-ct-teal .smw-top-border {
+    background-color: #00B5AD; }
+  .smw-single.smw-header.smw-ct-blue .smw-top-border {
+    background-color: #2185D0; }
+  .smw-single.smw-header.smw-ct-purple .smw-top-border {
+    background-color: #A333C8; }
+  .smw-single.smw-header.smw-ct-violet .smw-top-border {
+    background-color: #6435C9; }
+  .smw-single.smw-header.smw-ct-pink .smw-top-border {
+    background-color: #E03997; }
+  .smw-single.smw-header.smw-ct-brown .smw-top-border {
+    background-color: #A5673F; }
+  .smw-single.smw-header.smw-ct-grey .smw-top-border {
+    background-color: #767676; }
+  .smw-single.smw-header.smw-ct-black .smw-top-border {
+    background-color: #000; }
+  .smw-single.smw-header.smw-ct-white .smw-top-border {
+    background-color: #fff; }

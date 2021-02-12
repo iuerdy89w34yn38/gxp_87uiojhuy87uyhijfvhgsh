@@ -1,0 +1,42 @@
+.smw-ticker.smw-basic2 {
+  font-size: 1rem;
+  padding: 0.5rem 0; }
+  .smw-ticker.smw-basic2 .smw-first-line {
+    display: block; }
+  .smw-ticker.smw-basic2 .smw-field-quote-regularMarketPrice {
+    line-height: 2rem;
+    font-weight: 700;
+    display: inline-block; }
+  .smw-ticker.smw-basic2 .smw-ticker-single-container {
+    margin-right: 1rem;
+    display: inline-block; }
+  .smw-ticker.smw-basic2 .smw-field-virtual-name {
+    font-weight: bold; }
+  .smw-ticker.smw-basic2.smw-ct-red {
+    color: #DB2828; }
+  .smw-ticker.smw-basic2.smw-ct-orange {
+    color: #F2711C; }
+  .smw-ticker.smw-basic2.smw-ct-yellow {
+    color: #FBBD08; }
+  .smw-ticker.smw-basic2.smw-ct-olive {
+    color: #B5CC18; }
+  .smw-ticker.smw-basic2.smw-ct-green {
+    color: #21BA45; }
+  .smw-ticker.smw-basic2.smw-ct-teal {
+    color: #00B5AD; }
+  .smw-ticker.smw-basic2.smw-ct-blue {
+    color: #2185D0; }
+  .smw-ticker.smw-basic2.smw-ct-purple {
+    color: #A333C8; }
+  .smw-ticker.smw-basic2.smw-ct-violet {
+    color: #6435C9; }
+  .smw-ticker.smw-basic2.smw-ct-pink {
+    color: #E03997; }
+  .smw-ticker.smw-basic2.smw-ct-brown {
+    color: #A5673F; }
+  .smw-ticker.smw-basic2.smw-ct-grey {
+    color: #767676; }
+  .smw-ticker.smw-basic2.smw-ct-black {
+    color: #000; }
+  .smw-ticker.smw-basic2.smw-ct-white {
+    color: #fff; }

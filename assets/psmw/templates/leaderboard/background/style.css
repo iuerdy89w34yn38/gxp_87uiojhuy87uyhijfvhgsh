@@ -1,0 +1,54 @@
+.smw-leaderboard.smw-background {
+  font-family: inherit;
+  font-size: 1rem;
+  color: #FFFFF0;
+  padding: 0.3rem;
+  /*COLOR THEMES*/ }
+  .smw-leaderboard.smw-background .smw-field-virtual-name {
+    padding-bottom: 0.25rem; }
+  .smw-leaderboard.smw-background .smw-primary-info {
+    padding-bottom: 0.3rem; }
+    .smw-leaderboard.smw-background .smw-primary-info sup {
+      top: -0.3rem;
+      position: relative; }
+    .smw-leaderboard.smw-background .smw-primary-info .smw-field-virtual-symbol {
+      font-weight: bold;
+      font-size: 1.8rem;
+      line-height: 1.8rem; }
+    .smw-leaderboard.smw-background .smw-primary-info .smw-field-quote-regularMarketPrice {
+      font-weight: bold;
+      font-size: 1.8rem;
+      line-height: 1.8rem; }
+    .smw-leaderboard.smw-background .smw-primary-info .smw-arrow-icon {
+      font-size: 1.8rem;
+      line-height: 1.8rem; }
+  .smw-leaderboard.smw-background .smw-secondary-info .smw-market-data-field {
+    font-weight: bold; }
+  .smw-leaderboard.smw-background.smw-ct-red {
+    background-color: #DB2828; }
+  .smw-leaderboard.smw-background.smw-ct-orange {
+    background-color: #F2711C; }
+  .smw-leaderboard.smw-background.smw-ct-yellow {
+    background-color: #FBBD08; }
+  .smw-leaderboard.smw-background.smw-ct-olive {
+    background-color: #B5CC18; }
+  .smw-leaderboard.smw-background.smw-ct-green {
+    background-color: #21BA45; }
+  .smw-leaderboard.smw-background.smw-ct-teal {
+    background-color: #00B5AD; }
+  .smw-leaderboard.smw-background.smw-ct-blue {
+    background-color: #2185D0; }
+  .smw-leaderboard.smw-background.smw-ct-purple {
+    background-color: #A333C8; }
+  .smw-leaderboard.smw-background.smw-ct-violet {
+    background-color: #6435C9; }
+  .smw-leaderboard.smw-background.smw-ct-pink {
+    background-color: #E03997; }
+  .smw-leaderboard.smw-background.smw-ct-brown {
+    background-color: #A5673F; }
+  .smw-leaderboard.smw-background.smw-ct-grey {
+    background-color: #767676; }
+  .smw-leaderboard.smw-background.smw-ct-black {
+    background-color: #000; }
+  .smw-leaderboard.smw-background.smw-ct-white {
+    background-color: #fff; }

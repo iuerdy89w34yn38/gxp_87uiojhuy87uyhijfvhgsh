@@ -1,0 +1,49 @@
+.smw-single.smw-rounded {
+  font-family: inherit;
+  font-size: 1rem;
+  text-align: center;
+  color: #000;
+  background-color: #ffffff;
+  box-shadow: 0px 0px 0px 1px rgba(39, 41, 43, 0.15), 0px 1px 2px 0 rgba(0, 0, 0, 0.05);
+  padding: 1em 1em;
+  border-radius: 0.2857rem;
+  /*COLOR THEMES*/ }
+  .smw-single.smw-rounded .smw-field-virtual-symbol {
+    font-size: 1.8rem;
+    line-height: 2rem; }
+  .smw-single.smw-rounded .smw-field-virtual-name {
+    font-size: 1.1rem;
+    padding: 0.3rem 0;
+    color: #A5A5A5; }
+  .smw-single.smw-rounded .smw-last-price-container {
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1.9rem; }
+  .smw-single.smw-rounded.smw-ct-red {
+    border-top: 2px solid #DB2828; }
+  .smw-single.smw-rounded.smw-ct-orange {
+    border-top: 2px solid #F2711C; }
+  .smw-single.smw-rounded.smw-ct-yellow {
+    border-top: 2px solid #FBBD08; }
+  .smw-single.smw-rounded.smw-ct-olive {
+    border-top: 2px solid #B5CC18; }
+  .smw-single.smw-rounded.smw-ct-green {
+    border-top: 2px solid #21BA45; }
+  .smw-single.smw-rounded.smw-ct-teal {
+    border-top: 2px solid #00B5AD; }
+  .smw-single.smw-rounded.smw-ct-blue {
+    border-top: 2px solid #2185D0; }
+  .smw-single.smw-rounded.smw-ct-purple {
+    border-top: 2px solid #A333C8; }
+  .smw-single.smw-rounded.smw-ct-violet {
+    border-top: 2px solid #6435C9; }
+  .smw-single.smw-rounded.smw-ct-pink {
+    border-top: 2px solid #E03997; }
+  .smw-single.smw-rounded.smw-ct-brown {
+    border-top: 2px solid #A5673F; }
+  .smw-single.smw-rounded.smw-ct-grey {
+    border-top: 2px solid #767676; }
+  .smw-single.smw-rounded.smw-ct-black {
+    border-top: 2px solid #000; }
+  .smw-single.smw-rounded.smw-ct-white {
+    border-top: 2px solid #fff; }

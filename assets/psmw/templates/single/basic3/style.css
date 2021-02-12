@@ -1,0 +1,14 @@
+.smw-single.smw-basic3 {
+  font-family: inherit;
+  font-size: 1.2rem;
+  background: #e8e8e8;
+  text-align: center;
+  padding: 1rem;
+  /*COLOR THEMES*/ }
+  .smw-single.smw-basic3 .smw-header {
+    margin-bottom: 0.8rem; }
+    .smw-single.smw-basic3 .smw-header .smw-field-virtual-name,
+    .smw-single.smw-basic3 .smw-header .smw-field-quote-regularMarketChange {
+      font-size: 1.8rem;
+      line-height: 1.8rem;
+      margin-bottom: 1rem; }
