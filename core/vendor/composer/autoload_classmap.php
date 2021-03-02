@@ -118,6 +118,7 @@ return array(
     'App\\UserWallet' => $baseDir . '/app/UserWallet.php',
     'App\\WithdrawMethod' => $baseDir . '/app/WithdrawMethod.php',
     'App\\Withdrawal' => $baseDir . '/app/Withdrawal.php',
+    'App\\sessions' => $baseDir . '/app/sessions.php',
     'Asm89\\Stack\\Cors' => $vendorDir . '/asm89/stack-cors/src/Asm89/Stack/Cors.php',
     'Asm89\\Stack\\CorsService' => $vendorDir . '/asm89/stack-cors/src/Asm89/Stack/CorsService.php',
     'Attribute' => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',

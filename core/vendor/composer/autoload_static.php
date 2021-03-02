@@ -622,6 +622,7 @@ class ComposerStaticInit54722947bd73b126c35858502f5b13f3
         'App\\UserWallet' => __DIR__ . '/../..' . '/app/UserWallet.php',
         'App\\WithdrawMethod' => __DIR__ . '/../..' . '/app/WithdrawMethod.php',
         'App\\Withdrawal' => __DIR__ . '/../..' . '/app/Withdrawal.php',
+        'App\\sessions' => __DIR__ . '/../..' . '/app/sessions.php',
         'Asm89\\Stack\\Cors' => __DIR__ . '/..' . '/asm89/stack-cors/src/Asm89/Stack/Cors.php',
         'Asm89\\Stack\\CorsService' => __DIR__ . '/..' . '/asm89/stack-cors/src/Asm89/Stack/CorsService.php',
         'Attribute' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
